@@ -1,6 +1,6 @@
 import type {NextPage} from 'next'
-import play from "../test";
 import {useEffect} from "react";
+import play from "../interstingTypes";
 
 const Home: NextPage = () => {
     useEffect(() => {
